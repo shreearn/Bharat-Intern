@@ -54,8 +54,7 @@ Data Wrangling and Visualization
 3. The distribution of features and survival rates are visualized using seaborn and matplotlib.
 
 
-Machine Learning Models
-Several machine learning models are used for prediction, including:
+Machine Learning Models -Several machine learning models are used for prediction, including:
 
 - Logistic Regression
 - Perceptron
