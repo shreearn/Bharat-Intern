@@ -15,9 +15,8 @@ Requirements
 - Scikit-learn
 - TensorFlow
 
-Model Architecture
 
-The LSTM model consists of three LSTM layers with 50 units each, followed by a dense layer with 1 unit. It is trained using the Adam optimizer and mean squared error loss function.
+Model Architecture: The LSTM model consists of three LSTM layers with 50 units each, followed by a dense layer with 1 unit. It is trained using the Adam optimizer and mean squared error loss function.
 
 
 2.Titanic Classification :
