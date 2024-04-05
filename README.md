@@ -6,7 +6,7 @@ Introduction
 This code uses Long Short-Term Memory (LSTM) neural networks to predict stock prices. LSTM networks are particularly useful for time series prediction due to their ability to maintain long-term dependencies.
 
 
-Dataset
+Dataset 
 
 The dataset used in this project is NSE-TATAGLOBAL stock dataset, which contains historical stock prices of Tata Global Beverages from the National Stock Exchange of India.
 
