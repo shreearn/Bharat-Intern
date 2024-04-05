@@ -1,9 +1,14 @@
 # Bharat-Intern
 # 1. Stock Price Prediction Using LSTM
+
+Introduction 
+
 This code uses Long Short-Term Memory (LSTM) neural networks to predict stock prices. LSTM networks are particularly useful for time series prediction due to their ability to maintain long-term dependencies.
 
 
-Dataset: The dataset used in this project is NSE-TATAGLOBAL stock dataset, which contains historical stock prices of Tata Global Beverages from the National Stock Exchange of India.
+Dataset
+
+The dataset used in this project is NSE-TATAGLOBAL stock dataset, which contains historical stock prices of Tata Global Beverages from the National Stock Exchange of India.
 
 
 Requirements
@@ -23,20 +28,24 @@ Results: The model achieves a root mean squared error (RMSE) of X on the trainin
 
 
 # 2. Titanic Survival Prediction
+
+Introduction 
+
 This code aims to predict the survival of passengers aboard the Titanic using machine learning models. The dataset contains various features such as socio-economic status, age, gender, and more, which are used to predict whether a passenger survived or not.
 
-Dataset:
+Dataset
+
 The dataset used in this project is the famous Titanic dataset, which includes information about passengers such as their name, age, gender, socio-economic status (SES), ticket class, cabin number, port of embarkation, and whether they survived or not.
 
 Requirements
 
-Python 3
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-CatBoost
+- Python 3
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- CatBoost
 
 Data Wrangling and Visualization
 
